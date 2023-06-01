@@ -1,0 +1,15 @@
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/bin/Debug/net6.0/HeroProgramm
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/bin/Debug/net6.0/HeroProgramm.deps.json
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/bin/Debug/net6.0/HeroProgramm.runtimeconfig.json
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/bin/Debug/net6.0/HeroProgramm.dll
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/bin/Debug/net6.0/HeroProgramm.pdb
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/obj/Debug/net6.0/HeroProgramm.csproj.AssemblyReference.cache
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/obj/Debug/net6.0/HeroProgramm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/obj/Debug/net6.0/HeroProgramm.AssemblyInfoInputs.cache
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/obj/Debug/net6.0/HeroProgramm.AssemblyInfo.cs
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/obj/Debug/net6.0/HeroProgramm.csproj.CoreCompileInputs.cache
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/obj/Debug/net6.0/HeroProgramm.dll
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/obj/Debug/net6.0/refint/HeroProgramm.dll
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/obj/Debug/net6.0/HeroProgramm.pdb
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/obj/Debug/net6.0/HeroProgramm.genruntimeconfig.cache
+/Users/le_ptit_cthulhu/Desktop/EPITA_PROG/HeroProgramm/HeroProgramm/obj/Debug/net6.0/ref/HeroProgramm.dll
